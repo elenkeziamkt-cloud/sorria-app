@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "VLT Linha 1",
+    "type": "vlt",
+    "color": "#0891B2",
+    "description": "Liga o Terminal Intermodal Gentileza ao Aeroporto Santos Dumont passando pela Zona Portuária e Centro histórico.",
+    "operator": "Concessionária VLT Carioca S.A.",
+    "inauguration_year": 2016,
+    "history": "O VLT Carioca foi inaugurado em 5 de junho de 2016 como parte do projeto Porto Maravilha para os Jogos Olímpicos Rio 2016. A Linha 1 foi a primeira a entrar em operação, conectando a Zona Portuária ao Centro histórico com 20 estações."
+  },
+  {
+    "id": 2,
+    "name": "VLT Linha 2",
+    "type": "vlt",
+    "color": "#059669",
+    "description": "Liga Praia Formosa à Praça XV passando pela Central do Brasil, SAARA e Cinelândia.",
+    "operator": "Concessionária VLT Carioca S.A.",
+    "inauguration_year": 2017,
+    "history": "A Linha 2 foi inaugurada em 6 de fevereiro de 2017, expandindo o VLT para as áreas comerciais do Centro. Conecta Praia Formosa à Praça XV com integração com barcas para Niterói."
+  },
+  {
+    "id": 3,
+    "name": "VLT Linha 3",
+    "type": "vlt",
+    "color": "#EAB308",
+    "description": "Liga a Central do Brasil ao Aeroporto Santos Dumont pelo Centro histórico, passando por Pequena África e Cinelândia.",
+    "operator": "Concessionária VLT Carioca S.A.",
+    "inauguration_year": 2019,
+    "history": "A Linha 3 foi inaugurada em 26 de outubro de 2019, completando a integração do sistema. Homenageia a história afro-brasileira com estações como Cristiano Ottoni/Pequena África, Camerino/Rosas Negras e Santa Rita/Pretos Novos."
+  },
+  {
+    "id": 4,
+    "name": "VLT Linha 4",
+    "type": "vlt",
+    "color": "#F97316",
+    "description": "Liga o Terminal Intermodal Gentileza à Praça XV, a linha mais nova do sistema.",
+    "operator": "Concessionária VLT Carioca S.A.",
+    "inauguration_year": 2024,
+    "history": "A Linha 4, inaugurada em 1º de abril de 2024, é a expansão mais recente do VLT Carioca. Amplia a conectividade entre São Cristóvão, a Zona Portuária e o Centro histórico, chegando até as barcas da Praça XV com destino a Niterói."
+  },
+  {
+    "id": 5,
+    "name": "SuperVia — Ramal Japeri",
+    "type": "trem",
+    "color": "#DC2626",
+    "description": "Liga Central do Brasil a Japeri passando por toda a Zona Norte.",
+    "operator": "SuperVia Concessionária de Transportes Ferroviários S.A.",
+    "inauguration_year": 1858,
+    "history": "Originária da Estrada de Ferro Dom Pedro II (1858), é uma das ferrovias mais antigas do Brasil. Serve os bairros da Zona Norte e Baixada Fluminense."
+  },
+  {
+    "id": 6,
+    "name": "SuperVia — Ramal Santa Cruz",
+    "type": "trem",
+    "color": "#B91C1C",
+    "description": "Liga Central do Brasil a Santa Cruz pela Zona Oeste.",
+    "operator": "SuperVia Concessionária de Transportes Ferroviários S.A.",
+    "inauguration_year": 1878,
+    "history": "Ramal que atende a Zona Oeste do Rio, passando por bairros como Deodoro e Campo Grande."
+  },
+  {
+    "id": 7,
+    "name": "SuperVia — Ramal Deodoro",
+    "type": "trem",
+    "color": "#991B1B",
+    "description": "Liga Central do Brasil a Deodoro, passando pelo Maracanã.",
+    "operator": "SuperVia Concessionária de Transportes Ferroviários S.A.",
+    "inauguration_year": 1869,
+    "history": "Ramal histórico que passa pelo Maracanã — em dias de jogo, é o meio de transporte favorito dos torcedores."
+  },
+  {
+    "id": 8,
+    "name": "Metrô Linha 1 (Laranja)",
+    "type": "metro",
+    "color": "#EA580C",
+    "description": "Liga General Osório (Ipanema) à Uruguai, passando pelo Centro histórico.",
+    "operator": "MetrôRio",
+    "inauguration_year": 1979,
+    "history": "O Metrô do Rio foi inaugurado em 5 de março de 1979. A estação Cinelândia foi uma das primeiras e continua sendo uma das mais movimentadas, servindo o Centro histórico."
+  }
+]

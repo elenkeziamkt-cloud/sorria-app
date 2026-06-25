@@ -1,0 +1,953 @@
+[
+  {
+    "id": 1,
+    "name": "Santos Dumont",
+    "slug": "santos-dumont",
+    "lines": [
+      1,
+      3
+    ],
+    "line_id": 1,
+    "line_order": 1,
+    "lat": -22.9101,
+    "lng": -43.1634,
+    "neighborhood": "Centro",
+    "context": "Terminal do VLT no Aeroporto Santos Dumont — integração direta com voos domésticos. Atendida pelas Linhas 1 (Azul) e 3 (Amarela).",
+    "nearby_highlights": [
+      {
+        "name": "Aeroporto Santos Dumont",
+        "distance_m": 100,
+        "note": "5 min a pé — conexões para SP, BH, Brasília"
+      },
+      {
+        "name": "AquaRio",
+        "distance_m": 900,
+        "note": "12 min a pé"
+      },
+      {
+        "name": "Museu Histórico Nacional",
+        "distance_m": 600,
+        "note": "Fundado em 1922"
+      }
+    ],
+    "practical": "Integração direta com o Aeroporto Santos Dumont. Ideal para chegar ao Centro vindo de voo doméstico."
+  },
+  {
+    "id": 2,
+    "name": "Antônio Carlos - MAM",
+    "slug": "antonio-carlos-mam",
+    "lines": [
+      1,
+      3
+    ],
+    "line_id": 1,
+    "line_order": 2,
+    "lat": -22.9103,
+    "lng": -43.1712,
+    "neighborhood": "Centro",
+    "context": "Próxima ao Museu de Arte Moderna e ao Aeroporto Santos Dumont. Atendida pelas Linhas 1 (Azul) e 3 (Amarela).",
+    "nearby_highlights": [
+      {
+        "name": "Museu de Arte Moderna (MAM)",
+        "distance_m": 300,
+        "note": "Jardins de Burle Marx — entrada livre às quartas"
+      },
+      {
+        "name": "Aeroporto Santos Dumont",
+        "distance_m": 500,
+        "note": "7 min a pé — voos domésticos"
+      },
+      {
+        "name": "Museu Histórico Nacional",
+        "distance_m": 400,
+        "note": "Fundado em 1922"
+      }
+    ],
+    "practical": "Boa opção para quem vai ao MAM ou ao aeroporto Santos Dumont."
+  },
+  {
+    "id": 3,
+    "name": "Cinelândia",
+    "slug": "cinelandia",
+    "lines": [
+      1,
+      3
+    ],
+    "line_id": 1,
+    "line_order": 3,
+    "lat": -22.9097,
+    "lng": -43.1754,
+    "neighborhood": "Centro",
+    "context": "Coração cultural do Rio — Teatro Municipal, Biblioteca Nacional e Museu de Belas Artes. Atendida pelas Linhas 1 (Azul) e 3 (Amarela).",
+    "nearby_highlights": [
+      {
+        "name": "Teatro Municipal",
+        "distance_m": 100,
+        "note": "Inaugurado em 1909 — inspirado na Ópera de Paris"
+      },
+      {
+        "name": "Biblioteca Nacional",
+        "distance_m": 150,
+        "note": "Maior da América Latina — fundada por Dom João VI em 1810"
+      },
+      {
+        "name": "Museu Nacional de Belas Artes",
+        "distance_m": 200,
+        "note": "Acervo brasileiro do século XIX e XX"
+      }
+    ],
+    "practical": "Integração com Metrô Linha 1 (estação Cinelândia). A estação cultural mais rica do VLT."
+  },
+  {
+    "id": 4,
+    "name": "Carioca",
+    "slug": "carioca",
+    "lines": [
+      1,
+      3
+    ],
+    "line_id": 1,
+    "line_order": 4,
+    "lat": -22.9073,
+    "lng": -43.1745,
+    "neighborhood": "Centro",
+    "context": "No Largo da Carioca — integração com Metrô Linha 1. Atendida pelas Linhas 1 (Azul) e 3 (Amarela).",
+    "nearby_highlights": [
+      {
+        "name": "Real Gabinete Português de Leitura",
+        "distance_m": 200,
+        "note": "3 min a pé — uma das mais belas bibliotecas do mundo"
+      },
+      {
+        "name": "Confeitaria Colombo",
+        "distance_m": 400,
+        "note": "5 min a pé — fundada em 1894"
+      },
+      {
+        "name": "Arcos da Lapa",
+        "distance_m": 700,
+        "note": "10 min a pé"
+      }
+    ],
+    "practical": "Integração com Metrô Linha 1 (estação Carioca). Uma das estações mais centrais e com mais conexões do VLT."
+  },
+  {
+    "id": 5,
+    "name": "Sete de Setembro",
+    "slug": "sete-de-setembro",
+    "lines": [
+      1,
+      3
+    ],
+    "line_id": 1,
+    "line_order": 5,
+    "lat": -22.9044,
+    "lng": -43.1764,
+    "neighborhood": "Centro",
+    "context": "Na Avenida Rio Branco, principal eixo comercial e histórico do Centro. Atendida pelas Linhas 1 (Azul) e 3 (Amarela).",
+    "nearby_highlights": [
+      {
+        "name": "CCBB — Centro Cultural Banco do Brasil",
+        "distance_m": 200,
+        "note": "Exposições gratuitas e pagas de arte"
+      },
+      {
+        "name": "Confeitaria Colombo",
+        "distance_m": 400,
+        "note": "6 min a pé — fundada em 1894"
+      },
+      {
+        "name": "Real Gabinete Português de Leitura",
+        "distance_m": 500,
+        "note": "7 min a pé — uma das mais belas bibliotecas do mundo"
+      }
+    ],
+    "practical": "Estação central com fácil acesso a várias atrações culturais. O CCBB fica a 3 minutos a pé."
+  },
+  {
+    "id": 6,
+    "name": "Candelária",
+    "slug": "candelaria",
+    "lines": [
+      1,
+      3
+    ],
+    "line_id": 1,
+    "line_order": 6,
+    "lat": -22.901,
+    "lng": -43.1773,
+    "neighborhood": "Centro",
+    "context": "Próxima à Igreja da Candelária e à Avenida Rio Branco. Atendida pelas Linhas 1 (Azul) e 3 (Amarela).",
+    "nearby_highlights": [
+      {
+        "name": "Igreja da Candelária",
+        "distance_m": 100,
+        "note": "Construída entre 1775 e 1898 — símbolo do Centro"
+      },
+      {
+        "name": "Centro Cultural dos Correios",
+        "distance_m": 200,
+        "note": "Exposições gratuitas"
+      },
+      {
+        "name": "Avenida Rio Branco",
+        "distance_m": 100,
+        "note": "Principal avenida histórica do Centro"
+      }
+    ],
+    "practical": "Igreja da Candelária aberta todos os dias — entrada gratuita. Um dos marcos mais fotografados do Rio."
+  },
+  {
+    "id": 7,
+    "name": "São Bento",
+    "slug": "sao-bento",
+    "lines": [
+      1
+    ],
+    "line_id": 1,
+    "line_order": 7,
+    "lat": -22.8992,
+    "lng": -43.1781,
+    "neighborhood": "Centro",
+    "context": "Próxima ao Mosteiro de São Bento, fundado em 1590 — um dos mais belos conjuntos barrocos do Brasil. Atendida pela Linha 1 (Azul).",
+    "nearby_highlights": [
+      {
+        "name": "Mosteiro de São Bento",
+        "distance_m": 200,
+        "note": "Fundado em 1590 — barroco brasileiro imperdível"
+      },
+      {
+        "name": "Praça Mauá",
+        "distance_m": 500,
+        "note": "6 min a pé"
+      }
+    ],
+    "practical": "O Mosteiro de São Bento oferece missa cantada gregoriana aos domingos às 10h — entrada gratuita, sem agendamento."
+  },
+  {
+    "id": 8,
+    "name": "Parada dos Museus",
+    "slug": "parada-dos-museus",
+    "lines": [
+      1
+    ],
+    "line_id": 1,
+    "line_order": 8,
+    "lat": -22.8948,
+    "lng": -43.1798,
+    "neighborhood": "Centro / Porto Maravilha",
+    "context": "Parada que serve a área dos museus da Praça Mauá — Museu do Amanhã e MAR (Museu de Arte do Rio). Atendida pela Linha 1 (Azul).",
+    "nearby_highlights": [
+      {
+        "name": "Museu do Amanhã",
+        "distance_m": 250,
+        "note": "Ciência e sustentabilidade — arquitetura de Calatrava"
+      },
+      {
+        "name": "MAR — Museu de Arte do Rio",
+        "distance_m": 150,
+        "note": "Arte carioca na Praça Mauá"
+      },
+      {
+        "name": "Praça Mauá",
+        "distance_m": 100,
+        "note": "Centro da revitalização portuária"
+      },
+      {
+        "name": "Restaurante Mauá",
+        "distance_m": 50,
+        "note": "Rooftop do MAR com vista da baía"
+      },
+      {
+        "name": "Boteco Belmonte",
+        "distance_m": 120,
+        "note": "Edifício Touring, terraço com vista"
+      },
+      {
+        "name": "Boulevard Olímpico (Orla Conde)",
+        "distance_m": 50,
+        "note": "Calçadão revitalizado e Mural Etnias de Kobra"
+      },
+      {
+        "name": "Roda Gigante RioStar",
+        "distance_m": 200,
+        "note": "Maior roda-gigante da América Latina (88 m)"
+      }
+    ],
+    "practical": "Saída para o Museu do Amanhã, o MAR e a Praça Mauá. (Coordenada aproximada da área dos museus.)"
+  },
+  {
+    "id": 9,
+    "name": "Parada dos Navios - Valongo",
+    "slug": "parada-dos-navios-valongo",
+    "lines": [
+      1
+    ],
+    "line_id": 1,
+    "line_order": 9,
+    "lat": -22.8925,
+    "lng": -43.1858,
+    "neighborhood": "Saúde",
+    "context": "Estação homenageia o Cais do Valongo, principal porto de entrada de africanos escravizados nas Américas. Atendida pela Linha 1 (Azul).",
+    "nearby_highlights": [
+      {
+        "name": "Cais do Valongo",
+        "distance_m": 100,
+        "note": "Saída direta — Patrimônio Mundial UNESCO 2017"
+      },
+      {
+        "name": "Largo do Valongo",
+        "distance_m": 150,
+        "note": "Centro histórico da Pequena África"
+      },
+      {
+        "name": "Instituto Pretos Novos",
+        "distance_m": 400,
+        "note": "Memorial às vítimas do tráfico de escravizados"
+      },
+      {
+        "name": "Angu do Gomes",
+        "distance_m": 120,
+        "note": "Angu cremoso desde 1955 (Largo da Prainha)"
+      },
+      {
+        "name": "Dois de Fevereiro",
+        "distance_m": 130,
+        "note": "Cozinha baiana do chef João Diamante"
+      },
+      {
+        "name": "Gracioso Bar",
+        "distance_m": 150,
+        "note": "Boteco raiz desde 1960, feijoada às quintas"
+      }
+    ],
+    "practical": "A estação mais histórica do VLT. Saída direta para o Cais do Valongo — Patrimônio Mundial da UNESCO desde 9 de julho de 2017."
+  },
+  {
+    "id": 10,
+    "name": "Utopia - AquaRio",
+    "slug": "utopia-aquario",
+    "lines": [
+      1
+    ],
+    "line_id": 1,
+    "line_order": 10,
+    "lat": -22.892,
+    "lng": -43.1878,
+    "neighborhood": "Santo Cristo",
+    "context": "Próxima ao AquaRio, ao Armazém Utopia e à Rio Star (roda-gigante). Atendida pela Linha 1 (Azul).",
+    "nearby_highlights": [
+      {
+        "name": "AquaRio",
+        "distance_m": 150,
+        "note": "Maior aquário da América do Sul — 8.000 animais"
+      },
+      {
+        "name": "Rio Star",
+        "distance_m": 200,
+        "note": "Maior roda-gigante da América Latina — 88 metros"
+      },
+      {
+        "name": "Armazém Utopia",
+        "distance_m": 100,
+        "note": "Centro cultural e de eventos"
+      }
+    ],
+    "practical": "Melhor estação para o AquaRio e a Rio Star. Compre ingressos com antecedência em alta temporada."
+  },
+  {
+    "id": 11,
+    "name": "Cidade do Samba - Tia Ciata",
+    "slug": "cidade-do-samba-tia-ciata",
+    "lines": [
+      1
+    ],
+    "line_id": 1,
+    "line_order": 11,
+    "lat": -22.8943,
+    "lng": -43.1971,
+    "neighborhood": "Gamboa / Santo Cristo",
+    "context": "Próxima à Cidade do Samba, complexo dos barracões das escolas de samba do Grupo Especial. Homenageia Tia Ciata, figura histórica do samba carioca. Atendida pela Linha 1 (Azul).",
+    "nearby_highlights": [
+      {
+        "name": "Botequim da Cidade do Samba",
+        "distance_m": 100,
+        "note": "Petiscos cariocas e samba"
+      }
+    ],
+    "practical": "Acesso à Cidade do Samba, onde são construídas as alegorias e fantasias do carnaval. (Coordenada da Cidade do Samba.)"
+  },
+  {
+    "id": 12,
+    "name": "Santo Cristo",
+    "slug": "santo-cristo",
+    "lines": [
+      1,
+      2,
+      4
+    ],
+    "line_id": 1,
+    "line_order": 12,
+    "lat": -22.8965,
+    "lng": -43.201,
+    "neighborhood": "Santo Cristo",
+    "context": "No bairro de Santo Cristo, na Zona Portuária revitalizada. Atendida pelas Linhas 1 (Azul), 2 (Verde) e 4 (Laranja).",
+    "nearby_highlights": [],
+    "practical": "Estação de integração entre as três linhas que servem a Zona Portuária. (Coordenada aproximada.)"
+  },
+  {
+    "id": 13,
+    "name": "Cordeiro da Graça",
+    "slug": "cordeiro-da-graca",
+    "lines": [
+      1,
+      2,
+      4
+    ],
+    "line_id": 1,
+    "line_order": 13,
+    "lat": -22.8983,
+    "lng": -43.2053,
+    "neighborhood": "Santo Cristo",
+    "context": "Na Rua Cordeiro da Graça, em Santo Cristo, ao longo da Via Binário do Porto. Atendida pelas Linhas 1 (Azul), 2 (Verde) e 4 (Laranja).",
+    "nearby_highlights": [],
+    "practical": "Estação de passagem na Via Binário, em Santo Cristo. (Coordenada da rua Cordeiro da Graça.)"
+  },
+  {
+    "id": 14,
+    "name": "Harmonia",
+    "slug": "harmonia",
+    "lines": [
+      1
+    ],
+    "line_id": 1,
+    "line_order": 14,
+    "lat": -22.8943,
+    "lng": -43.1818,
+    "neighborhood": "Saúde",
+    "context": "No coração da Zona Portuária histórica, próxima ao Morro da Conceição e ao Cais do Valongo. Atendida pela Linha 1 (Azul).",
+    "nearby_highlights": [
+      {
+        "name": "Cais do Valongo",
+        "distance_m": 400,
+        "note": "5 min a pé — Patrimônio UNESCO"
+      },
+      {
+        "name": "Morro da Conceição",
+        "distance_m": 600,
+        "note": "8 min a pé — bairro colonial preservado"
+      },
+      {
+        "name": "Pedra do Sal",
+        "distance_m": 700,
+        "note": "10 min a pé — berço do samba"
+      },
+      {
+        "name": "Imaculada Bar e Galeria",
+        "distance_m": 300,
+        "note": "Bobó, feijoada e samba no Morro da Conceição"
+      },
+      {
+        "name": "Café Tero",
+        "distance_m": 320,
+        "note": "Cantina ítalo-brasileira, massas frescas"
+      }
+    ],
+    "practical": "Melhor estação para visitar o Cais do Valongo e o Morro da Conceição. Área histórica da Zona Portuária."
+  },
+  {
+    "id": 15,
+    "name": "Providência",
+    "slug": "providencia",
+    "lines": [
+      1
+    ],
+    "line_id": 1,
+    "line_order": 15,
+    "lat": -22.8961,
+    "lng": -43.1953,
+    "neighborhood": "Gamboa",
+    "context": "Próxima ao teleférico do Morro da Providência, a primeira favela do Brasil. Atendida pela Linha 1 (Azul).",
+    "nearby_highlights": [
+      {
+        "name": "Morro da Providência",
+        "distance_m": 200,
+        "note": "Primeira favela do Brasil — história de mais de 120 anos"
+      },
+      {
+        "name": "Teleférico da Providência",
+        "distance_m": 250,
+        "note": "Vista panorâmica da Baía de Guanabara"
+      }
+    ],
+    "practical": "Melhor estação para visitar o Morro da Providência. O teleférico opera em horários específicos — consulte antes."
+  },
+  {
+    "id": 16,
+    "name": "Gamboa",
+    "slug": "gamboa",
+    "lines": [
+      1,
+      2,
+      4
+    ],
+    "line_id": 1,
+    "line_order": 16,
+    "lat": -22.8967,
+    "lng": -43.1986,
+    "neighborhood": "Gamboa",
+    "context": "No bairro da Gamboa, berço da cultura portuária do Rio e próxima ao teleférico do Morro da Providência. Atendida pelas Linhas 1 (Azul), 2 (Verde) e 4 (Laranja).",
+    "nearby_highlights": [
+      {
+        "name": "Teleférico da Providência",
+        "distance_m": 400,
+        "note": "Acesso ao Morro da Providência — primeira favela do Brasil"
+      },
+      {
+        "name": "Cais do Valongo",
+        "distance_m": 600,
+        "note": "8 min a pé — Patrimônio UNESCO"
+      }
+    ],
+    "practical": "Ponto de partida para subir o Morro da Providência pelo teleférico. Bairro com forte identidade cultural e histórica."
+  },
+  {
+    "id": 17,
+    "name": "Pereira Reis",
+    "slug": "pereira-reis",
+    "lines": [
+      1,
+      2,
+      4
+    ],
+    "line_id": 1,
+    "line_order": 17,
+    "lat": -22.8953,
+    "lng": -43.2014,
+    "neighborhood": "Santo Cristo",
+    "context": "Estação na Via Binário do Porto, artéria central da Zona Portuária revitalizada. Atendida pelas Linhas 1 (Azul), 2 (Verde) e 4 (Laranja).",
+    "nearby_highlights": [
+      {
+        "name": "AquaRio",
+        "distance_m": 400,
+        "note": "5 min a pé — maior aquário da América do Sul"
+      },
+      {
+        "name": "Rio Star (roda-gigante)",
+        "distance_m": 500,
+        "note": "A maior roda-gigante da América Latina"
+      }
+    ],
+    "practical": "Boa estação de acesso ao AquaRio e à Rio Star, as grandes atrações de entretenimento da Zona Portuária."
+  },
+  {
+    "id": 18,
+    "name": "Equador",
+    "slug": "equador",
+    "lines": [
+      1,
+      2,
+      4
+    ],
+    "line_id": 1,
+    "line_order": 18,
+    "lat": -22.8967,
+    "lng": -43.2045,
+    "neighborhood": "Santo Cristo",
+    "context": "Estação no bairro Santo Cristo, próxima ao Porto do Rio. Atendida pelas Linhas 1 (Azul), 2 (Verde) e 4 (Laranja).",
+    "nearby_highlights": [
+      {
+        "name": "Porto do Rio de Janeiro",
+        "distance_m": 300,
+        "note": "Terminal de cruzeiros marítimos"
+      },
+      {
+        "name": "AquaRio",
+        "distance_m": 500,
+        "note": "7 min a pé — maior aquário da América do Sul"
+      }
+    ],
+    "practical": "Estação próxima ao terminal de cruzeiros. Boa opção para quem chega ao Rio de navio."
+  },
+  {
+    "id": 19,
+    "name": "Rodoviária",
+    "slug": "rodoviaria",
+    "lines": [
+      1,
+      2,
+      4
+    ],
+    "line_id": 1,
+    "line_order": 19,
+    "lat": -22.8956,
+    "lng": -43.1836,
+    "neighborhood": "Santo Cristo",
+    "context": "Estação da Rodoviária Novo Rio — chegada de ônibus de todo o Brasil e América do Sul. Atendida pelas Linhas 1 (Azul), 2 (Verde) e 4 (Laranja).",
+    "nearby_highlights": [
+      {
+        "name": "Terminal Rodoviário Novo Rio",
+        "distance_m": 50,
+        "note": "Conexão com ônibus interestaduais e internacionais"
+      },
+      {
+        "name": "Cais do Valongo",
+        "distance_m": 900,
+        "note": "10 min a pé — Patrimônio Mundial UNESCO"
+      },
+      {
+        "name": "AquaRio",
+        "distance_m": 600,
+        "note": "8 min a pé — maior aquário da América do Sul"
+      }
+    ],
+    "practical": "Integração com linhas de ônibus municipais e interestaduais. Ponto de partida ideal para quem chega ao Rio de ônibus."
+  },
+  {
+    "id": 20,
+    "name": "Terminal Intermodal Gentileza",
+    "slug": "terminal-intermodal-gentileza",
+    "lines": [
+      1,
+      4
+    ],
+    "line_id": 1,
+    "line_order": 20,
+    "lat": -22.8989,
+    "lng": -43.2114,
+    "neighborhood": "São Cristóvão",
+    "context": "Terminal de integração com BRT e ônibus municipais — porta de entrada para a Zona Portuária. Atendida pelas Linhas 1 (Azul) e 4 (Laranja).",
+    "nearby_highlights": [
+      {
+        "name": "Terminal BRT Gentileza",
+        "distance_m": 50,
+        "note": "Integração com BRT Transolímpica e linhas municipais"
+      },
+      {
+        "name": "Quinta da Boa Vista",
+        "distance_m": 1500,
+        "note": "15 min — Museu Nacional e zoológico"
+      }
+    ],
+    "practical": "Principal hub de integração no extremo norte do VLT. Conexão com BRT e ônibus para toda a cidade."
+  },
+  {
+    "id": 21,
+    "name": "Praça XV",
+    "slug": "praca-xv",
+    "lines": [
+      2,
+      4
+    ],
+    "line_id": 2,
+    "line_order": 1,
+    "lat": -22.9026,
+    "lng": -43.1726,
+    "neighborhood": "Centro",
+    "context": "Terminal do VLT com integração para barcas a Niterói e Paquetá. Marco histórico do Rio colonial. Atendida pelas Linhas 2 (Verde) e 4 (Laranja).",
+    "nearby_highlights": [
+      {
+        "name": "Terminal de Barcas",
+        "distance_m": 100,
+        "note": "Travessia para Niterói e Ilha de Paquetá"
+      },
+      {
+        "name": "Paço Imperial",
+        "distance_m": 150,
+        "note": "Onde a Família Real viveu — fundado em 1743"
+      },
+      {
+        "name": "Igreja N. S. do Carmo",
+        "distance_m": 200,
+        "note": "Igreja da família real — fundada em 1590"
+      },
+      {
+        "name": "Praça XV de Novembro",
+        "distance_m": 50,
+        "note": "Proclamação da República em 1889"
+      }
+    ],
+    "practical": "Integração com barcas para Niterói (saem a cada 30 min) e Paquetá. Área histórica mais densa do Rio — Paço Imperial, Praça XV e igrejas coloniais."
+  },
+  {
+    "id": 22,
+    "name": "Colombo",
+    "slug": "colombo",
+    "lines": [
+      2,
+      4
+    ],
+    "line_id": 2,
+    "line_order": 2,
+    "lat": -22.9053,
+    "lng": -43.1786,
+    "neighborhood": "Centro",
+    "context": "Homenageia a Confeitaria Colombo — a mais famosa confeitaria histórica do Rio, aberta em 1894. Atendida pelas Linhas 2 (Verde) e 4 (Laranja).",
+    "nearby_highlights": [
+      {
+        "name": "Confeitaria Colombo",
+        "distance_m": 150,
+        "note": "Fundada em 1894 — Art Nouveau, visitada por presidentes e reis"
+      },
+      {
+        "name": "Real Gabinete Português de Leitura",
+        "distance_m": 250,
+        "note": "3 min a pé"
+      },
+      {
+        "name": "CCBB",
+        "distance_m": 400,
+        "note": "Centro Cultural Banco do Brasil — exposições"
+      }
+    ],
+    "practical": "A Confeitaria Colombo é programa obrigatório — café e tortas em ambiente histórico. Almoço é mais caro; café da manhã e tarde são as melhores opções."
+  },
+  {
+    "id": 23,
+    "name": "Tiradentes",
+    "slug": "tiradentes",
+    "lines": [
+      2,
+      4
+    ],
+    "line_id": 2,
+    "line_order": 3,
+    "lat": -22.9064,
+    "lng": -43.1844,
+    "neighborhood": "Centro",
+    "context": "Na Praça Tiradentes — histórico polo teatral do Rio com o Palácio Tiradentes. Atendida pelas Linhas 2 (Verde) e 4 (Laranja).",
+    "nearby_highlights": [
+      {
+        "name": "Palácio Tiradentes",
+        "distance_m": 100,
+        "note": "Sede da Assembleia Legislativa — visitas gratuitas"
+      },
+      {
+        "name": "Real Gabinete Português de Leitura",
+        "distance_m": 400,
+        "note": "6 min a pé — uma das mais belas bibliotecas do mundo"
+      },
+      {
+        "name": "Teatro Carlos Gomes",
+        "distance_m": 150,
+        "note": "Inaugurado em 1872"
+      }
+    ],
+    "practical": "O Palácio Tiradentes oferece visitas guiadas gratuitas. Praça Tiradentes é o centro histórico do teatro carioca."
+  },
+  {
+    "id": 24,
+    "name": "Saara",
+    "slug": "saara",
+    "lines": [
+      2,
+      4
+    ],
+    "line_id": 2,
+    "line_order": 4,
+    "lat": -22.9065,
+    "lng": -43.1878,
+    "neighborhood": "Centro",
+    "context": "No SAARA — Sociedade de Amigos das Adjacências da Rua da Alfândega, maior polo de comércio popular do Rio. Atendida pelas Linhas 2 (Verde) e 4 (Laranja).",
+    "nearby_highlights": [
+      {
+        "name": "SAARA",
+        "distance_m": 50,
+        "note": "Maior polo comercial popular do Rio — ruas históricas"
+      },
+      {
+        "name": "Igreja de São Francisco de Paula",
+        "distance_m": 300,
+        "note": "Construída em 1759"
+      },
+      {
+        "name": "Praça Tiradentes",
+        "distance_m": 200,
+        "note": "3 min a pé — Palácio Tiradentes"
+      }
+    ],
+    "practical": "Coração do comércio popular do Centro. O SAARA é famoso por preços baixos e diversidade cultural — armênios, árabes, judeus e brasileiros convivem há décadas."
+  },
+  {
+    "id": 25,
+    "name": "Cristiano Ottoni - Pequena África",
+    "slug": "cristiano-ottoni-pequena-africa",
+    "lines": [
+      2,
+      3,
+      4
+    ],
+    "line_id": 2,
+    "line_order": 5,
+    "lat": -22.9006,
+    "lng": -43.1836,
+    "neighborhood": "Centro",
+    "context": "Homenageia a Pequena África — território histórico da cultura afro-brasileira no Rio. Atendida pelas Linhas 2 (Verde), 3 (Amarela) e 4 (Laranja).",
+    "nearby_highlights": [
+      {
+        "name": "Pedra do Sal",
+        "distance_m": 600,
+        "note": "Berço do samba carioca"
+      },
+      {
+        "name": "Cais do Valongo",
+        "distance_m": 500,
+        "note": "Patrimônio UNESCO"
+      },
+      {
+        "name": "Instituto Pretos Novos",
+        "distance_m": 400,
+        "note": "Memorial ao tráfico de africanos escravizados"
+      }
+    ],
+    "practical": "Ponto de acesso à história afro-brasileira do Rio. O nome homenageia o engenheiro Cristiano Ottoni e a Pequena África, território cultural negro."
+  },
+  {
+    "id": 26,
+    "name": "Central",
+    "slug": "central",
+    "lines": [
+      2,
+      3,
+      4
+    ],
+    "line_id": 2,
+    "line_order": 6,
+    "lat": -22.9028,
+    "lng": -43.1806,
+    "neighborhood": "Centro",
+    "context": "Hub de transportes mais importante do Rio — VLT, Metrô e trens SuperVia convergem aqui (Estação Central do Brasil). Atendida pelas Linhas 2 (Verde), 3 (Amarela) e 4 (Laranja).",
+    "nearby_highlights": [
+      {
+        "name": "Estação Central do Brasil",
+        "distance_m": 50,
+        "note": "Integração com SuperVia (trens para a cidade toda) e Metrô"
+      },
+      {
+        "name": "Praça da República",
+        "distance_m": 200,
+        "note": "3 min a pé — histórica praça do Centro"
+      },
+      {
+        "name": "Campo de Santana",
+        "distance_m": 300,
+        "note": "Proclamação da República em 15 de novembro de 1889"
+      }
+    ],
+    "practical": "Principal hub de transporte do Rio. Integração com Metrô (Linhas 1 e 2) e SuperVia para toda a cidade. A Torre do Relógio da Central é ponto de encontro histórico."
+  },
+  {
+    "id": 27,
+    "name": "Vila Olímpica",
+    "slug": "vila-olimpica",
+    "lines": [
+      2,
+      4
+    ],
+    "line_id": 2,
+    "line_order": 10,
+    "lat": -22.8975,
+    "lng": -43.1997,
+    "neighborhood": "Santo Cristo",
+    "context": "Próxima ao Centro de Operações do VLT e à antiga Vila Operária portuária. Atendida pelas Linhas 2 (Verde) e 4 (Laranja).",
+    "nearby_highlights": [
+      {
+        "name": "Rodoviária Novo Rio",
+        "distance_m": 600,
+        "note": "8 min a pé"
+      },
+      {
+        "name": "AquaRio",
+        "distance_m": 700,
+        "note": "10 min a pé"
+      }
+    ],
+    "practical": "Estação de passagem entre a Rodoviária e o Centro. Bairro Santo Cristo em transformação urbana."
+  },
+  {
+    "id": 28,
+    "name": "Praia Formosa",
+    "slug": "praia-formosa",
+    "lines": [
+      2
+    ],
+    "line_id": 2,
+    "line_order": 14,
+    "lat": -22.9014,
+    "lng": -43.2044,
+    "neighborhood": "Santo Cristo",
+    "context": "Terminal de origem da Linha 2, próxima ao Terminal de ônibus Padre Henrique Otte. Atendida pela Linha 2 (Verde).",
+    "nearby_highlights": [
+      {
+        "name": "Praia Formosa (memória da praia extinta)",
+        "distance_m": 0,
+        "note": "Antiga praia da zona portuária, aterrada no fim do séc. XIX — hoje dá nome à estação. Veja o local no app."
+      },
+      {
+        "name": "Terminal de ônibus Padre Henrique Otte",
+        "distance_m": 100,
+        "note": "Linhas para Zona Norte e subúrbios"
+      },
+      {
+        "name": "Rodoviária Novo Rio",
+        "distance_m": 800,
+        "note": "10 min de VLT — ônibus interestaduais"
+      }
+    ],
+    "practical": "Início da Linha 2 do VLT. Boa integração com linhas de ônibus para a Zona Norte."
+  },
+  {
+    "id": 29,
+    "name": "Santa Rita - Pretos Novos",
+    "slug": "santa-rita-pretos-novos",
+    "lines": [
+      3
+    ],
+    "line_id": 3,
+    "line_order": 7,
+    "lat": -22.9015,
+    "lng": -43.1822,
+    "neighborhood": "Centro",
+    "context": "Homenageia o Instituto Pretos Novos — arqueologia e memória do tráfico de africanos escravizados. Atendida pela Linha 3 (Amarela).",
+    "nearby_highlights": [
+      {
+        "name": "Instituto Pretos Novos",
+        "distance_m": 300,
+        "note": "Memorial e museu dos africanos que morreram no porto"
+      },
+      {
+        "name": "Igreja de Santa Rita",
+        "distance_m": 150,
+        "note": "Construída em 1721 — uma das mais antigas do Rio"
+      }
+    ],
+    "practical": "O Instituto Pretos Novos é um dos locais mais importantes para entender a história da escravidão no Rio de Janeiro."
+  },
+  {
+    "id": 30,
+    "name": "Camerino - Rosas Negras",
+    "slug": "camerino-rosas-negras",
+    "lines": [
+      3
+    ],
+    "line_id": 3,
+    "line_order": 8,
+    "lat": -22.9028,
+    "lng": -43.185,
+    "neighborhood": "Centro",
+    "context": "Homenageia o clube Rosas Negras, importante clube negro carioca do século XX. Atendida pela Linha 3 (Amarela).",
+    "nearby_highlights": [
+      {
+        "name": "Centro Cultural da Justiça Federal",
+        "distance_m": 300,
+        "note": "Palácio histórico com exposições gratuitas"
+      },
+      {
+        "name": "Igreja Santa Rita",
+        "distance_m": 200,
+        "note": "Padroeira dos condenados — século XVIII"
+      }
+    ],
+    "practical": "Estação com forte significado histórico para a cultura afro-carioca. Área do Centro histórico colonial."
+  }
+]

@@ -1,0 +1,1333 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Cais do Valongo",
+        "slug": "cais-do-valongo",
+        "bairro": "Saúde",
+        "endereco": "Rua Sacadura Cabral, s/n — Saúde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.187466,
+          -22.896888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Paço Imperial",
+        "slug": "paco-imperial",
+        "bairro": "Centro",
+        "endereco": "Praça XV de Novembro, 48 — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.174169,
+          -22.903589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Museu do Amanhã",
+        "slug": "museu-do-amanha",
+        "bairro": "Centro / Porto Maravilha",
+        "endereco": "Praça Mauá, 1 — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.179404,
+          -22.894068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "MAR — Museu de Arte do Rio",
+        "slug": "mar-museu-arte-rio",
+        "bairro": "Centro / Porto Maravilha",
+        "endereco": "Praça Mauá, 5 — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.181019,
+          -22.896463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "AquaRio",
+        "slug": "aquario-aquario",
+        "bairro": "Gamboa",
+        "endereco": "Rua Gavião Peixoto, 83 — Gamboa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.192854,
+          -22.893033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Arcos da Lapa",
+        "slug": "arcos-da-lapa",
+        "bairro": "Lapa",
+        "endereco": "Rua Joaquim Silva / Largo da Lapa — Lapa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.179956,
+          -22.913034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Escadaria Selarón",
+        "slug": "escadaria-selaron",
+        "bairro": "Lapa / Santa Teresa",
+        "endereco": "Rua Joaquim Silva — Lapa / Santa Teresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.179455,
+          -22.915445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Real Gabinete Português de Leitura",
+        "slug": "real-gabinete-portugues-leitura",
+        "bairro": "Centro",
+        "endereco": "Rua Luís de Camões, 30 — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.182209,
+          -22.905369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Confeitaria Colombo",
+        "slug": "confeitaria-colombo",
+        "bairro": "Centro",
+        "endereco": "Rua Gonçalves Dias, 32 — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.178744,
+          -22.90517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Cinelândia — Praça Floriano",
+        "slug": "cinelandia-praca-floriano",
+        "bairro": "Centro",
+        "endereco": "Praça Floriano — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.175862,
+          -22.911366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Estação Central do Brasil",
+        "slug": "central-do-brasil",
+        "bairro": "Centro",
+        "endereco": "Praça Cristiano Ottoni, s/n — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.191419,
+          -22.903547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Morro da Conceição",
+        "slug": "morro-da-conceicao",
+        "bairro": "Saúde",
+        "endereco": "Rua Bela / Rua Monte Alegre — Saúde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1814,
+          -22.8929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Pedra do Sal",
+        "slug": "pedra-do-sal",
+        "bairro": "Saúde",
+        "endereco": "Largo João da Baiana — Saúde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.185406,
+          -22.898042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Praça Mauá",
+        "slug": "praca-maua",
+        "bairro": "Centro / Porto Maravilha",
+        "endereco": "Praça Mauá — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.181019,
+          -22.896463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Igreja Nossa Senhora do Carmo da Antiga Sé",
+        "slug": "igreja-nossa-senhora-carmo",
+        "bairro": "Centro",
+        "endereco": "Rua Primeiro de Março, 36 — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.175627,
+          -22.902141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Porto Maravilha",
+        "slug": "porto-maravilha",
+        "bairro": "Zona Portuária",
+        "endereco": "Zona Portuária — Saúde, Gamboa, Santo Cristo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1818,
+          -22.8966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Gamboa Ação",
+        "slug": "gamboa-acao",
+        "bairro": "Gamboa",
+        "endereco": "Rua Pedro Ernesto, 31 — Gamboa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.193518,
+          -22.896194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Centro Cultural Banco do Brasil (CCBB)",
+        "slug": "ccbb-rio",
+        "bairro": "Centro",
+        "endereco": "Rua Primeiro de Março, 66 — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.176287,
+          -22.901052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Theatro Municipal do Rio de Janeiro",
+        "slug": "theatro-municipal-rio",
+        "bairro": "Centro",
+        "endereco": "Praça Floriano, s/n — Cinelândia, Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.176677,
+          -22.908992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Biblioteca Nacional",
+        "slug": "biblioteca-nacional",
+        "bairro": "Centro",
+        "endereco": "Avenida Rio Branco, 219 — Cinelândia, Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.175377,
+          -22.909702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Mosteiro de São Bento",
+        "slug": "mosteiro-de-sao-bento",
+        "bairro": "Centro",
+        "endereco": "Rua Dom Gerardo, 68 — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.179795,
+          -22.89791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Igreja da Candelária",
+        "slug": "igreja-da-candelaria",
+        "bairro": "Centro",
+        "endereco": "Praça Pio X — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.177794,
+          -22.900849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Museu Histórico Nacional",
+        "slug": "museu-historico-nacional",
+        "bairro": "Centro",
+        "endereco": "Praça Marechal Âncora, s/n — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.169685,
+          -22.90579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Museu Nacional de Belas Artes (MNBA)",
+        "slug": "museu-nacional-belas-artes",
+        "bairro": "Centro",
+        "endereco": "Avenida Rio Branco, 199 — Cinelândia, Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.176,
+          -22.9087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Casa França-Brasil",
+        "slug": "casa-franca-brasil",
+        "bairro": "Centro",
+        "endereco": "Rua Visconde de Itaboraí, 78 — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.175937,
+          -22.900557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Espaço Cultural da Marinha",
+        "slug": "espaco-cultural-da-marinha",
+        "bairro": "Centro",
+        "endereco": "Avenida Alfredo Agache, s/n — Centro (orla, perto da Praça XV)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.174648,
+          -22.900047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Centro Cultural Correios",
+        "slug": "centro-cultural-correios",
+        "bairro": "Centro",
+        "endereco": "Rua Visconde de Itaboraí, 20 — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.175742,
+          -22.901135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Centro Cultural Justiça Federal",
+        "slug": "centro-cultural-justica-federal",
+        "bairro": "Centro",
+        "endereco": "Avenida Rio Branco, 241 — Cinelândia, Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.175226,
+          -22.910503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Catedral Metropolitana de São Sebastião",
+        "slug": "catedral-metropolitana-rio",
+        "bairro": "Centro",
+        "endereco": "Avenida República do Chile, 245 — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.180691,
+          -22.910798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Igreja de São Francisco de Paula",
+        "slug": "igreja-sao-francisco-de-paula",
+        "bairro": "Centro",
+        "endereco": "Largo de São Francisco de Paula — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.18051,
+          -22.905652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Academia Brasileira de Letras",
+        "slug": "academia-brasileira-de-letras",
+        "bairro": "Centro",
+        "endereco": "Avenida Presidente Wilson, 203 — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.173122,
+          -22.91075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Centro de Arte Hélio Oiticica",
+        "slug": "centro-arte-helio-oiticica",
+        "bairro": "Centro",
+        "endereco": "Rua Luís de Camões, 68 — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.183346,
+          -22.905875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Caixa Cultural Rio de Janeiro",
+        "slug": "caixa-cultural-rio",
+        "bairro": "Centro",
+        "endereco": "Avenida Almirante Barroso, 25 — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.176859,
+          -22.907899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "MUHCAB - Museu da História e da Cultura Afro-Brasileira",
+        "slug": "muhcab",
+        "bairro": "Gamboa",
+        "endereco": "Rua Pedro Ernesto, 80 — Gamboa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.194257,
+          -22.896147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Fábrica Bhering",
+        "slug": "fabrica-bhering",
+        "bairro": "Santo Cristo",
+        "endereco": "Rua Orestes, 28 — Santo Cristo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.203375,
+          -22.901222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Praça da Harmonia",
+        "slug": "praca-da-harmonia",
+        "bairro": "Gamboa",
+        "endereco": "Praça Coronel Assunção (Praça da Harmonia) — Gamboa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.191674,
+          -22.895729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Instituto de Pesquisa e Memória Pretos Novos (IPN)",
+        "slug": "instituto-pretos-novos",
+        "bairro": "Gamboa",
+        "endereco": "Rua Pedro Ernesto, 32-34 — Gamboa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1888,
+          -22.898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "5º Batalhão de Polícia Militar (5º BPM)",
+        "slug": "quinto-bpm-gamboa",
+        "bairro": "Gamboa",
+        "endereco": "Praça Coronel Assunção, s/n — Gamboa/Saúde (CEP 20220-480)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1898,
+          -22.8967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Praia Formosa",
+        "slug": "praia-formosa",
+        "bairro": "Santo Cristo",
+        "endereco": "Rua General Luís Mendes de Morais — Santo Cristo (estação Praia Formosa do VLT)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.208234,
+          -22.902852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Igreja de Santa Rita",
+        "slug": "igreja-santa-rita",
+        "bairro": "Centro",
+        "endereco": "Largo de Santa Rita, s/n — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.180697,
+          -22.900419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Igreja da Ordem Terceira de São Francisco da Penitência",
+        "slug": "igreja-sao-francisco-penitencia",
+        "bairro": "Centro",
+        "endereco": "Largo da Carioca, s/n (Morro de Santo Antônio) — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.179261,
+          -22.906898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Palácio Tiradentes",
+        "slug": "palacio-tiradentes",
+        "bairro": "Centro",
+        "endereco": "Rua Primeiro de Março, s/n — Centro (Praça XV)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.173876,
+          -22.903901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ilha Fiscal",
+        "slug": "ilha-fiscal",
+        "bairro": "Centro",
+        "endereco": "Ilha Fiscal — Baía de Guanabara (acesso pelo Espaço Cultural da Marinha, Centro)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.166308,
+          -22.896898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Gare Leopoldina (Estação Barão de Mauá)",
+        "slug": "gare-leopoldina",
+        "bairro": "Santo Cristo",
+        "endereco": "Avenida Francisco Bicalho, s/n — Santo Cristo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.209887,
+          -22.899171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Edifício A Noite",
+        "slug": "edificio-a-noite",
+        "bairro": "Centro",
+        "endereco": "Praça Mauá, 7 — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.181109,
+          -22.897267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Igreja de São José",
+        "slug": "igreja-sao-jose",
+        "bairro": "Centro",
+        "endereco": "Avenida Presidente Antônio Carlos, esquina com Rua São José — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1722,
+          -22.9045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Igreja de Nossa Senhora da Lapa dos Mercadores",
+        "slug": "igreja-lapa-dos-mercadores",
+        "bairro": "Centro",
+        "endereco": "Rua do Ouvidor, 35 — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.175289,
+          -22.902192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Cemitério dos Ingleses",
+        "slug": "cemiterio-dos-ingleses",
+        "bairro": "Gamboa",
+        "endereco": "Rua da Gamboa — Gamboa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.19675,
+          -22.898083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Praça Tiradentes",
+        "slug": "praca-tiradentes",
+        "bairro": "Centro",
+        "endereco": "Praça Tiradentes — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.182827,
+          -22.906997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Praça XV de Novembro",
+        "slug": "praca-xv",
+        "bairro": "Centro",
+        "endereco": "Praça Quinze de Novembro — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.172988,
+          -22.902941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Largo da Carioca",
+        "slug": "largo-da-carioca",
+        "bairro": "Centro",
+        "endereco": "Largo da Carioca — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.178339,
+          -22.90741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Largo da Candelária",
+        "slug": "largo-da-candelaria",
+        "bairro": "Centro",
+        "endereco": "Largo da Candelária — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1776,
+          -22.8999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Praça da Cruz Vermelha",
+        "slug": "praca-da-cruz-vermelha",
+        "bairro": "Centro",
+        "endereco": "Praça da Cruz Vermelha — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.188593,
+          -22.91198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Passeio Público",
+        "slug": "passeio-publico",
+        "bairro": "Centro",
+        "endereco": "Rua do Passeio — Lapa/Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.176579,
+          -22.913333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Praça Cardeal Câmara",
+        "slug": "praca-cardeal-camara",
+        "bairro": "Centro",
+        "endereco": "Praça Cardeal Câmara — Centro (junto aos Arcos da Lapa)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.179481,
+          -22.912823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Campo de Santana (Praça da República)",
+        "slug": "campo-de-santana",
+        "bairro": "Centro",
+        "endereco": "Praça da República (Campo de Santana) — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.188735,
+          -22.90617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Praça Paris",
+        "slug": "praca-paris",
+        "bairro": "Glória",
+        "endereco": "Praça Paris — Glória"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.175921,
+          -22.916881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Praça da Bandeira",
+        "slug": "praca-da-bandeira",
+        "bairro": "Praça da Bandeira",
+        "endereco": "Praça da Bandeira — Praça da Bandeira (Zona Norte)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.212956,
+          -22.909893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Praça São Salvador",
+        "slug": "praca-sao-salvador",
+        "bairro": "Flamengo",
+        "endereco": "Praça São Salvador — Flamengo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.180308,
+          -22.933965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Praça Onze",
+        "slug": "praca-onze",
+        "bairro": "Cidade Nova",
+        "endereco": "Praça Onze de Junho — Cidade Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.200283,
+          -22.909917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Praça Saens Peña",
+        "slug": "praca-saens-pena",
+        "bairro": "Tijuca",
+        "endereco": "Praça Saens Peña — Tijuca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.232569,
+          -22.924521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Angu do Gomes",
+        "slug": "angu-do-gomes",
+        "bairro": "Saúde",
+        "endereco": "Rua Sacadura Cabral, 75 (Largo da Prainha) — Saúde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.182278,
+          -22.897271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Dois de Fevereiro",
+        "slug": "dois-de-fevereiro",
+        "bairro": "Saúde",
+        "endereco": "Rua Sacadura Cabral, 79 — Saúde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.182278,
+          -22.897271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "G&G Gourmet",
+        "slug": "gg-gourmet",
+        "bairro": "Saúde",
+        "endereco": "Rua Sacadura Cabral, 55 — Saúde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.182278,
+          -22.897271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Gracioso Bar",
+        "slug": "gracioso-bar",
+        "bairro": "Saúde",
+        "endereco": "Rua Sacadura Cabral, 97 — Saúde (Cais do Valongo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.182278,
+          -22.897271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Boteco Pedra do Sal",
+        "slug": "boteco-pedra-do-sal",
+        "bairro": "Saúde",
+        "endereco": "Rua Sacadura Cabral, 120 — Saúde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.185873,
+          -22.897451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Ladainha Bar",
+        "slug": "ladainha-bar",
+        "bairro": "Saúde",
+        "endereco": "Rua Sacadura Cabral, 57 — Saúde/Gamboa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.185873,
+          -22.897451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Trapiche Gamboa",
+        "slug": "trapiche-gamboa",
+        "bairro": "Gamboa",
+        "endereco": "Rua Sacadura Cabral, 155 — Gamboa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.192263,
+          -22.894967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Beco das Sardinhas (Bar Ocidental)",
+        "slug": "beco-das-sardinhas",
+        "bairro": "Centro",
+        "endereco": "Rua Miguel Couto, 139 — Centro (Beco das Sardinhas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.180257,
+          -22.901213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Restaurante Mauá",
+        "slug": "restaurante-maua",
+        "bairro": "Centro",
+        "endereco": "Praça Mauá, 5 — 6º andar (terraço do MAR) — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.181,
+          -22.8965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Boteco Belmonte (Edifício Touring)",
+        "slug": "boteco-belmonte",
+        "bairro": "Centro",
+        "endereco": "Edifício Touring — Av. Rodrigues Alves, 10 (Praça Mauá) — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1825,
+          -22.8968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Florescer Bistrô (Portinho)",
+        "slug": "florescer-bistro",
+        "bairro": "Saúde",
+        "endereco": "Av. Rodrigues Alves, 135 (Portinho) — Saúde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.182487,
+          -22.895869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Laurence Gastronomia (Portinho)",
+        "slug": "laurence-gastronomia",
+        "bairro": "Saúde",
+        "endereco": "Av. Rodrigues Alves, 135 (Portinho) — Saúde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.182487,
+          -22.895869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Imaculada Bar e Galeria",
+        "slug": "imaculada-bar",
+        "bairro": "Centro",
+        "endereco": "Ladeira João Homem / Travessa do Liceu — Morro da Conceição, Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1875,
+          -22.8958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Botequim da Cidade do Samba",
+        "slug": "botequim-cidade-do-samba",
+        "bairro": "Gamboa",
+        "endereco": "Rua Rivadávia Corrêa, 60 — Gamboa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.196586,
+          -22.895667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Bar do Omar",
+        "slug": "bar-do-omar",
+        "bairro": "Santo Cristo",
+        "endereco": "Alto do Morro do Pinto — Santo Cristo (zona portuária)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.204475,
+          -22.903169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Restaurante Rio Park",
+        "slug": "restaurante-rio-park",
+        "bairro": "Saúde",
+        "endereco": "Rua Sacadura Cabral, 67, loja B — Saúde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1841,
+          -22.8966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Café Tero",
+        "slug": "cafe-tero",
+        "bairro": "Saúde",
+        "endereco": "Ladeira Felipe Néri, 11 — Saúde (Morro da Conceição)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.181189,
+          -22.897466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Imperatriz Gourmet",
+        "slug": "imperatriz-gourmet",
+        "bairro": "Saúde",
+        "endereco": "Rua Sacadura Cabral, 157, loja A — Saúde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.185,
+          -22.8973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Verde Vício",
+        "slug": "verde-vicio",
+        "bairro": "Centro",
+        "endereco": "Rua Buenos Aires, 22 — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.177273,
+          -22.901987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Tutti Gusti",
+        "slug": "tutti-gusti",
+        "bairro": "Santo Cristo",
+        "endereco": "Av. Oscar Niemeyer, 2000, loja B, bloco 1 — Santo Cristo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.170162,
+          -22.909646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Boulevard Olímpico",
+        "slug": "boulevard-olimpico",
+        "bairro": "Centro / Porto Maravilha",
+        "endereco": "Orla Conde / Boulevard Olímpico — Centro (Praça Mauá à Praça XV)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.174169,
+          -22.901625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Roda Gigante RioStar",
+        "slug": "roda-gigante-riostar",
+        "bairro": "Centro / Porto Maravilha",
+        "endereco": "Praça Mauá (orla do Boulevard Olímpico) — Centro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.181019,
+          -22.896463
+        ]
+      }
+    }
+  ]
+}

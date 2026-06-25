@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "slug": "museu",
+    "label": "Museu",
+    "icon": "museum",
+    "color": "#7C3AED"
+  },
+  {
+    "id": 2,
+    "slug": "igreja",
+    "label": "Igreja",
+    "icon": "church",
+    "color": "#B45309"
+  },
+  {
+    "id": 3,
+    "slug": "praca",
+    "label": "Praça / Largo",
+    "icon": "park",
+    "color": "#059669"
+  },
+  {
+    "id": 4,
+    "slug": "patrimonio",
+    "label": "Patrimônio",
+    "icon": "landmark",
+    "color": "#DC2626"
+  },
+  {
+    "id": 5,
+    "slug": "cultura",
+    "label": "Centro Cultural",
+    "icon": "theater",
+    "color": "#2563EB"
+  },
+  {
+    "id": 6,
+    "slug": "gastronomia",
+    "label": "Gastronomia",
+    "icon": "coffee",
+    "color": "#D97706"
+  },
+  {
+    "id": 7,
+    "slug": "estacao_vlt",
+    "label": "Estação VLT",
+    "icon": "tram",
+    "color": "#0891B2"
+  },
+  {
+    "id": 8,
+    "slug": "estacao_trem",
+    "label": "Estação de Trem",
+    "icon": "train",
+    "color": "#4F46E5"
+  },
+  {
+    "id": 9,
+    "slug": "aquario",
+    "label": "Aquário",
+    "icon": "fish",
+    "color": "#0284C7"
+  },
+  {
+    "id": 10,
+    "slug": "bairro",
+    "label": "Bairro Histórico",
+    "icon": "map",
+    "color": "#16A34A"
+  },
+  {
+    "id": 11,
+    "slug": "teatro",
+    "label": "Teatro",
+    "icon": "music",
+    "color": "#9333EA"
+  },
+  {
+    "id": 12,
+    "slug": "biblioteca",
+    "label": "Biblioteca",
+    "icon": "book",
+    "color": "#0F766E"
+  },
+  {
+    "id": 13,
+    "slug": "ong",
+    "label": "ONG / Projeto Social",
+    "icon": "heart",
+    "color": "#E11D48"
+  },
+  {
+    "id": 14,
+    "slug": "lazer",
+    "label": "Lazer / Atração",
+    "icon": "star",
+    "color": "#DB2777"
+  },
+  {
+    "id": 15,
+    "slug": "saude",
+    "label": "Saúde",
+    "icon": "hospital",
+    "color": "#EF4444"
+  },
+  {
+    "id": 16,
+    "slug": "publico",
+    "label": "Público / Governo",
+    "icon": "gavel",
+    "color": "#475569"
+  }
+]
