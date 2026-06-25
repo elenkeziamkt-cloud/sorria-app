@@ -45,3 +45,6 @@ yarn-error.*
 *.mov
 *.avi
 *.mkv
+
+.vercel
+.env*

@@ -1,5 +1,6 @@
 import { Stack } from 'expo-router';
 import { useEffect } from 'react';
+import { Platform } from 'react-native';
 import { initDatabase, getDatabase } from '../src/db/client';
 import { seedDatabase } from '../src/db/seed';
 import { colors } from '../src/theme/colors';
@@ -14,6 +15,13 @@ export default function RootLayout() {
   // (Explorar/Mapa/Detalhe) já espera pela flag `seeded`. Assim o app SEMPRE
   // abre, mesmo que o SQLite falhe (ex.: web sem cross-origin isolation).
   useEffect(() => {
+    // No web não usamos SQLite: Mapa, Explorar, Detalhe e Chat leem direto dos
+    // JSON de /seed (ver locations.web.ts). Isso evita a fragilidade do OPFS no
+    // navegador (que quebrava ao recarregar a página). Marcamos seeded=true já.
+    if (Platform.OS === 'web') {
+      setSeeded(true);
+      return;
+    }
     (async () => {
       try {
         await initDatabase();
